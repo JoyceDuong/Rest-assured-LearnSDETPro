@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "summary": "Summury for issue",
+    "project": {
+      "key": "JDP"
+    },
+    "issuetype": {
+      "id": "10000"
+    }
+  }
+}
